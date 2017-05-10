@@ -1,0 +1,6 @@
+[package]
+name = "networktablesredox"
+version = "0.0.1"
+authors = ["OpenFRC Initiative <openfrcinitiative@gmail.com>"]
+
+[dependencies]
